@@ -1,0 +1,3 @@
+[submodule "AFTx07"]
+	path = AFTx07
+	url = git@github.com:Purdue-SoCET/AFTx07.git
